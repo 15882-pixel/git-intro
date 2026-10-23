@@ -1,1 +1,5 @@
-Change from main
+Message from main branch
+Message from feature branch
+
+
+>>>>>>> parent of daebd47 (Change message in feature-improvement)
